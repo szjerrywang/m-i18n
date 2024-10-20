@@ -41,6 +41,7 @@
                     </execution>
                 </executions>
                 <configuration>
+                    <imageName>modulea</imageName>
                     <excludes>
                         <exclude>
                             <groupId>org.projectlombok</groupId>
